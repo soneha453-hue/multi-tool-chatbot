@@ -8,3 +8,4 @@ langchain-core
 langchain-tavily
 langgraph
 requests
+langgraph-checkpoint-sqlite
